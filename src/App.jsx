@@ -6,7 +6,7 @@ import Login from './Login';
 function App() {
   return (
     <div className="App">
-      <h1>Authentication App test 1</h1>
+      <h1>Authentication App test 2</h1>
       <Signup></Signup>
       <Login></Login>
     </div>
